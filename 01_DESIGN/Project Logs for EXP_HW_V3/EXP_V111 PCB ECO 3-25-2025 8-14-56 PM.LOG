@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=TEC_SPI3_SCK Pin=U9-22
+Removed Pin From Net: NetName=TEC_SPI3_MOSI Pin=U9-24
+Change Net Name : Old Net Name=TEC_ADC_C\S\ New Net Name=ADG_CS
+Added Pin To Net: NetName=ADG_MOSI Pin=U9-24
+Added Net: Name=ADG_MOSI
+Added Pin To Net: NetName=ADG_SCK Pin=U9-22
+Added Net: Name=ADG_SCK

@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=EXP_I2C2_SCL Pin=J1-17
+Removed Pin From Net: NetName=EXP_UART1_RX Pin=J1-18
+Removed Pin From Net: NetName=EXP_I2C2_SDA Pin=J1-38
+Removed Pin From Net: NetName=EXP_UART1_TX Pin=J1-39
+Removed Pin From Net: NetName=PROTECT_EMI Pin=J4-10
+Change Component Footprint: Designator=J4 Old Footprint=0532611071 New Footprint=0532610971
+Change Component Comment : Designator=J4 Old Comment=0532611071 New Comment=0532610971
+Added Component: Designator=R40(RES_C_1608X60)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=EXP_UART1_RX Pin=J1-17
+Added Pin To Net: NetName=EXP_I2C2_SCL Pin=J1-18
+Added Pin To Net: NetName=EXP_UART1_TX Pin=J1-38
+Added Pin To Net: NetName=EXP_I2C2_SDA Pin=J1-39
+Added Pin To Net: NetName=+3.3 Pin=R40-1
+Added Pin To Net: NetName=EXP_SPI1_MOSI Pin=R40-2
+Added Member To Class: ClassName=HEADER_1 Member=Component R40 4.7k

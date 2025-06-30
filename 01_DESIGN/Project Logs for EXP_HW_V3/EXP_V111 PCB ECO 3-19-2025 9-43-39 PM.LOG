@@ -1,0 +1,19 @@
+Change Footprint: Footprint Not Found DO214-AC-SMA
+Change Footprint: Footprint Not Found L-SMD-M-3.5x3.5x2mm
+Change Footprint: Footprint Not Found L-SMD-M-3.5x3.5x2mm
+Change Footprint: Footprint Not Found L-SMD-M-3.5x3.5x2mm
+Change Footprint: Footprint Not Found L-SMD-M-3.5x3.5x2mm
+Change Component Footprint: Designator=C1 Old Footprint=SMD7343 New Footprint=TANTALUM_SMD_1206
+Change Component Footprint: Designator=C2 Old Footprint=SMD7343 New Footprint=TANTALUM_SMD_1206
+Change Component Footprint: Designator=C8 Old Footprint=SMD7343 New Footprint=TANTALUM_SMD_1206
+Change Component Footprint: Designator=C9 Old Footprint=SMD7343 New Footprint=TANTALUM_SMD_1206
+Change Component Footprint: Designator=C12 Old Footprint=SMD7343 New Footprint=TANTALUM_SMD_1206
+Change Component Footprint: Designator=C13 Old Footprint=SMD7343 New Footprint=TANTALUM_SMD_1206
+Change Component Footprint: Designator=C17 Old Footprint=SMD7343 New Footprint=TANTALUM_SMD_1206
+Change Component Footprint: Designator=C18 Old Footprint=SMD7343 New Footprint=TANTALUM_SMD_1206
+Change Footprint: Footprint Not Found sot23-12_3
+Change Footprint: Footprint Not Found sot23-12_3
+Add Pin To Net: Unknown Pin: Pin J8-5
+Add Pin To Net: Unknown Pin: Pin J8-6
+Add Pin To Net: Unknown Pin: Pin J9-5
+Add Pin To Net: Unknown Pin: Pin J9-6

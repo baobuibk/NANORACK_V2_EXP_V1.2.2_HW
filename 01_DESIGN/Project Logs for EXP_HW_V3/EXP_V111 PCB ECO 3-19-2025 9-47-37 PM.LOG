@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=L2 Old Footprint=L-SMD-M-3.5X3.5X2MM-EXP-V110 New Footprint=L-SMD-M-3.5x3.5x2mm
+Change Component Footprint: Designator=L3 Old Footprint=L-SMD-M-3.5X3.5X2MM-EXP-V110 New Footprint=L-SMD-M-3.5x3.5x2mm
+Change Component Footprint: Designator=L4 Old Footprint=L-SMD-M-3.5X3.5X2MM-EXP-V110 New Footprint=L-SMD-M-3.5x3.5x2mm
+Change Component Footprint: Designator=L5 Old Footprint=L-SMD-M-3.5X3.5X2MM-EXP-V110 New Footprint=L-SMD-M-3.5x3.5x2mm
+Change Footprint: Footprint Not Found sot23-12_3
+Change Footprint: Footprint Not Found sot23-12_3
+Add Pin To Net: Unknown Pin: Pin J8-5
+Add Pin To Net: Unknown Pin: Pin J8-6
+Add Pin To Net: Unknown Pin: Pin J9-5
+Add Pin To Net: Unknown Pin: Pin J9-6

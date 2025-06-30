@@ -1,0 +1,143 @@
+Removed Pin From Net: NetName=IRQ_1 Pin=J1-14
+Removed Pin From Net: NetName=EXP_SPI1_CS Pin=J1-15
+Removed Pin From Net: NetName=EXP_SPI1_SCK Pin=J1-16
+Removed Pin From Net: NetName=EXP_UART7_RX Pin=J1-17
+Removed Pin From Net: NetName=EXP_I2C2_SCL Pin=J1-18
+Removed Pin From Net: NetName=IRQ_0 Pin=J1-35
+Removed Pin From Net: NetName=EXP_SPI1_MISO Pin=J1-36
+Removed Pin From Net: NetName=EXP_SPI1_MOSI Pin=J1-37
+Removed Pin From Net: NetName=EXP_UART7_TX Pin=J1-38
+Removed Pin From Net: NetName=EXP_I2C2_SDA Pin=J1-39
+Change Component Comment : Designator=R109 Old Comment=19.1k 1% New Comment=16.5k1%
+Added Component: Designator=R41(RES_C_1608X60)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R42(RES_C_1608X60)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R43(RES_C_1608X60)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R44(RES_C_1608X60)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R45(RES_C_1608X60)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R47(RES_C_1608X60)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R48(RES_C_1608X60)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R49(RES_C_1608X60)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R50(RES_C_1608X60)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R51(RES_C_1608X60)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R52(RES_C_1608X60)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R53(RES_C_1608X60)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R54(RES_C_1608X60)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R55(RES_C_1608X60)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3 Pin=R41-1
+Added Pin To Net: NetName=IRQ_1 Pin=R41-2
+Added Pin To Net: NetName=+3.3 Pin=R42-1
+Added Pin To Net: NetName=EXP_I2C2_SCL Pin=R42-2
+Added Pin To Net: NetName=+3.3 Pin=R43-1
+Added Pin To Net: NetName=EXP_I2C2_SDA Pin=R43-2
+Added Pin To Net: NetName=+3.3 Pin=R44-1
+Added Pin To Net: NetName=IRQ_0 Pin=R44-2
+Added Pin To Net: NetName=EXP_I2C2_SCL Pin=R45-1
+Added Pin To Net: NetName=EXP_I2C2_SDA Pin=R47-2
+Added Pin To Net: NetName=EXP_UART7_RX Pin=R48-1
+Added Pin To Net: NetName=EXP_UART7_TX Pin=R49-2
+Added Pin To Net: NetName=EXP_SPI1_SCK Pin=R50-1
+Added Pin To Net: NetName=EXP_SPI1_MOSI Pin=R51-2
+Added Pin To Net: NetName=EXP_SPI1_CS Pin=R52-1
+Added Pin To Net: NetName=EXP_SPI1_MISO Pin=R53-2
+Added Pin To Net: NetName=IRQ_1 Pin=R54-1
+Added Pin To Net: NetName=IRQ_0 Pin=R55-2
+Added Pin To Net: NetName=NetJ1_14 Pin=J1-14
+Added Pin To Net: NetName=NetJ1_14 Pin=R54-2
+Added Net: Name=NetJ1_14
+Added Pin To Net: NetName=NetJ1_15 Pin=J1-15
+Added Pin To Net: NetName=NetJ1_15 Pin=R52-2
+Added Net: Name=NetJ1_15
+Added Pin To Net: NetName=NetJ1_16 Pin=J1-16
+Added Pin To Net: NetName=NetJ1_16 Pin=R50-2
+Added Net: Name=NetJ1_16
+Added Pin To Net: NetName=NetJ1_17 Pin=J1-17
+Added Pin To Net: NetName=NetJ1_17 Pin=R48-2
+Added Net: Name=NetJ1_17
+Added Pin To Net: NetName=NetJ1_18 Pin=J1-18
+Added Pin To Net: NetName=NetJ1_18 Pin=R45-2
+Added Net: Name=NetJ1_18
+Added Pin To Net: NetName=NetJ1_35 Pin=J1-35
+Added Pin To Net: NetName=NetJ1_35 Pin=R55-1
+Added Net: Name=NetJ1_35
+Added Pin To Net: NetName=NetJ1_36 Pin=J1-36
+Added Pin To Net: NetName=NetJ1_36 Pin=R53-1
+Added Net: Name=NetJ1_36
+Added Pin To Net: NetName=NetJ1_37 Pin=J1-37
+Added Pin To Net: NetName=NetJ1_37 Pin=R51-1
+Added Net: Name=NetJ1_37
+Added Pin To Net: NetName=NetJ1_38 Pin=J1-38
+Added Pin To Net: NetName=NetJ1_38 Pin=R49-1
+Added Net: Name=NetJ1_38
+Added Pin To Net: NetName=NetJ1_39 Pin=J1-39
+Added Pin To Net: NetName=NetJ1_39 Pin=R47-1
+Added Net: Name=NetJ1_39
+Added Member To Class: ClassName=HEADER_1 Member=Component R41 4.7k
+Added Member To Class: ClassName=HEADER_1 Member=Component R42 4.7k
+Added Member To Class: ClassName=HEADER_1 Member=Component R43 4.7k
+Added Member To Class: ClassName=HEADER_1 Member=Component R44 4.7k
+Added Member To Class: ClassName=HEADER_1 Member=Component R45 22R
+Added Member To Class: ClassName=HEADER_1 Member=Component R47 22R
+Added Member To Class: ClassName=HEADER_1 Member=Component R48 22R
+Added Member To Class: ClassName=HEADER_1 Member=Component R49 22R
+Added Member To Class: ClassName=HEADER_1 Member=Component R50 22R
+Added Member To Class: ClassName=HEADER_1 Member=Component R51 22R
+Added Member To Class: ClassName=HEADER_1 Member=Component R52 22R
+Added Member To Class: ClassName=HEADER_1 Member=Component R53 22R
+Added Member To Class: ClassName=HEADER_1 Member=Component R54 22R
+Added Member To Class: ClassName=HEADER_1 Member=Component R55 22R

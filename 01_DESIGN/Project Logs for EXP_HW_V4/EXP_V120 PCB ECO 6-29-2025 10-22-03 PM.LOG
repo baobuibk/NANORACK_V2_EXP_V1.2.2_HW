@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=NetR140_2 Pin=U22-3
+Change Component Comment : Designator=R57 Old Comment=22R New Comment=22R/DNP
+Change Component Comment : Designator=R118 Old Comment=22R New Comment=22R/DNP
+Added Component: Designator=R153(RES_C_1608X60)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3 Pin=R153-1
+Added Pin To Net: NetName=LASER_SPI2_MISO Pin=R122-2
+Added Pin To Net: NetName=LASER_SPI2_MISO Pin=U12-53
+Added Net: Name=LASER_SPI2_MISO
+Added Pin To Net: NetName=LASER_SPI2_MOSI Pin=R124-2
+Added Pin To Net: NetName=LASER_SPI2_MOSI Pin=U12-54
+Added Net: Name=LASER_SPI2_MOSI
+Added Pin To Net: NetName=LASER_SPI2_SCK Pin=R120-2
+Added Pin To Net: NetName=LASER_SPI2_SCK Pin=U12-52
+Added Net: Name=LASER_SPI2_SCK
+Added Pin To Net: NetName=NetR153_2 Pin=R153-2
+Added Pin To Net: NetName=NetR153_2 Pin=U22-3
+Added Net: Name=NetR153_2
+Added Pin To Net: NetName=PHOTO_SPI4_MISO Pin=R129-2
+Added Pin To Net: NetName=PHOTO_SPI4_MISO Pin=U12-43
+Added Net: Name=PHOTO_SPI4_MISO
+Added Pin To Net: NetName=PHOTO_SPI4_MOSI Pin=R130-2
+Added Pin To Net: NetName=PHOTO_SPI4_MOSI Pin=U12-44
+Added Net: Name=PHOTO_SPI4_MOSI
+Added Pin To Net: NetName=PHOTO_SPI4_SCK Pin=R128-2
+Added Pin To Net: NetName=PHOTO_SPI4_SCK Pin=U12-42
+Added Net: Name=PHOTO_SPI4_SCK
+Added Member To Class: ClassName=FRAM Member=Component R153 4.7k

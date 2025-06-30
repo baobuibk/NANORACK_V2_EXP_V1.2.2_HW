@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=LASER_DAC_CS Pin=U12-40
+Added Pin To Net: NetName=LASER_SW_INT_CS Pin=U12-41
+Added Pin To Net: NetName=LASER_SW_EXT_CS Pin=U12-45

@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=TVS3 Old Footprint=sot23-12_3_EXP_V110 New Footprint=sot23-12_3
+Change Component Footprint: Designator=TVS4 Old Footprint=sot23-12_3_EXP_V110 New Footprint=sot23-12_3
+Add Pin To Net: Unknown Pin: Pin J8-5
+Add Pin To Net: Unknown Pin: Pin J8-6
+Add Pin To Net: Unknown Pin: Pin J9-5
+Add Pin To Net: Unknown Pin: Pin J9-6

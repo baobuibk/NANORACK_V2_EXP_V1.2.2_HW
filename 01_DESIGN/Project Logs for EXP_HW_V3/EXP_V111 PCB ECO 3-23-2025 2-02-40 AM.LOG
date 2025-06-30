@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=EF_5_AUX Pin=U12-84
+Removed Pin From Net: NetName=EF_5_EN Pin=U12-85
+Added Pin To Net: NetName=EF_5_AUX Pin=U12-87
+Added Pin To Net: NetName=EF_5_EN Pin=U12-88

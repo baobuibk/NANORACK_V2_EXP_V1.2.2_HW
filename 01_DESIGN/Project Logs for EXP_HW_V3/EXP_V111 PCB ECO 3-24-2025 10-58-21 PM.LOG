@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=TEC_SPI3_SCK Pin=R142-1
+Removed Pin From Net: NetName=TEC_SPI3_MOSI Pin=R143-1
+Removed Pin From Net: NetName=TEC_SPI3_MISO Pin=R144-1
+Removed Pin From Net: NetName=TEC_ADC_C\S\ Pin=U12-86
+Removed Pin From Net: NetName=EF_5_AUX Pin=U12-87
+Removed Pin From Net: NetName=EF_5_EN Pin=U12-88
+Removed Pin From Net: NetName=SENSOR2_EN Pin=U12-90
+Removed Pin From Net: NetName=SENSOR1_EN Pin=U12-91
+Added Pin To Net: NetName=FRAM_SPI6_MISO Pin=R144-1
+Added Pin To Net: NetName=FRAM_SPI6_MISO Pin=U12-90
+Added Net: Name=FRAM_SPI6_MISO
+Added Pin To Net: NetName=FRAM_SPI6_MOSI Pin=R143-1
+Added Pin To Net: NetName=FRAM_SPI6_MOSI Pin=U12-91
+Added Net: Name=FRAM_SPI6_MOSI
+Added Pin To Net: NetName=FRAM_SPI6_SCK Pin=R142-1
+Added Pin To Net: NetName=FRAM_SPI6_SCK Pin=U12-89
+Added Net: Name=FRAM_SPI6_SCK
