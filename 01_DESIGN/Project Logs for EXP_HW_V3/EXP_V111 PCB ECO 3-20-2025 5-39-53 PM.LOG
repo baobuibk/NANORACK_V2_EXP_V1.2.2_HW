@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=EF_12_AUX Pin=U12-37
-Added Pin To Net: NetName=EXP_UART7_RX Pin=J1-17
-Added Pin To Net: NetName=EXP_UART7_RX Pin=U12-37
-Added Net: Name=EXP_UART7_RX
-Added Pin To Net: NetName=EXP_UART7_TX Pin=J1-38
-Added Pin To Net: NetName=EXP_UART7_TX Pin=U12-38
-Added Net: Name=EXP_UART7_TX

@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=PHOTO_PD_CS Pin=U12-56
-Removed Pin From Net: NetName=PHOTO_ADC_CS Pin=U12-57
-Removed Pin From Net: NetName=PHOTO_ADC_CONV Pin=U12-58
-Removed Pin From Net: NetName=PHOTO_ADC_EOC Pin=U12-65
-Change Component Designator: OldDesignator=3 NewDesignator=J7
-Added Pin To Net: NetName=PHOTO_PD_CS Pin=U12-55
-Added Pin To Net: NetName=PHOTO_ADC_CS Pin=U12-56
-Added Pin To Net: NetName=PHOTO_ADC_CONV Pin=U12-57
-Added Pin To Net: NetName=PHOTO_ADC_EOC Pin=U12-58
