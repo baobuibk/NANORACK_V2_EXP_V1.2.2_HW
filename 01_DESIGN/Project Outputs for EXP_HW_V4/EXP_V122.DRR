@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: EXP_V122.PcbDoc   7/1/2025  1:21:42 PM
+NCDrill File Report For: EXP_V122.PcbDoc   7/1/2025  2:00:57 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,7 +7,7 @@ ASCII RoundHoles File : EXP_V122.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.2mm (8mil)                                              Round             981       PTH        2308.62mm (90.89inch)
+T1      0.2mm (8mil)                                              Round             983       PTH        2309.46mm (90.92inch)
 T2      0.5mm (20mil)                                             Round             32        PTH        308.38mm (12.14inch)
 T3      0.75mm (30mil)                                            Round             42        PTH        82.00mm (3.23inch)
 T4      0.95mm (37mil)                                            Round             8         PTH        68.50mm (2.70inch)
@@ -16,6 +16,6 @@ T6      1.1mm (43mil)                                             Round         
 T7      3.3mm (130mil)                                            Round             4         PTH        265.63mm (10.46inch)
 T8      2.3mm (91mil)                                             Round             2         NPTH       47.00mm (1.85inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              1091
+Totals                                                                              1093
 
 Total Processing Time (hh:mm:ss) : 00:00:00

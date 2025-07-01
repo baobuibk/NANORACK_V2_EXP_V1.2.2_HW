@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PHOTO_ADC_CONV Pin=U12-57
+Removed Pin From Net: NetName=EF_12_AUX Pin=U12-67
+Added Pin To Net: NetName=EF_12_AUX Pin=U12-57
+Added Pin To Net: NetName=PHOTO_ADC_CONV Pin=U12-67
