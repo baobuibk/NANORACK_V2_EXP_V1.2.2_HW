@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=WD_DONE Pin=U12-41
+Removed Pin From Net: NetName=PHOTO_ADC_CS Pin=U12-56
+Added Pin To Net: NetName=PHOTO_ADC_CS Pin=U12-41

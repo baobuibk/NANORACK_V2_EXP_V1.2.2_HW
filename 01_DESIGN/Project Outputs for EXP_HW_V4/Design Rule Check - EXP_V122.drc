@@ -1,9 +1,9 @@
 Protel Design System Design Rule Check
 PCB File : D:\Altium_WorkSpace\EXP_V4\01_DESIGN\EXP_V122.PcbDoc
-Date     : 6/30/2025
-Time     : 1:41:30 PM
+Date     : 7/1/2025
+Time     : 12:51:56 PM
 
-Processing Rule : Clearance Constraint (Gap=7.008mil) (NOT InNet('PROTECT_EMI') and NOT OnLayer('Keep-Out Layer')),(not OnLayer('Keep-out Layer'))
+Processing Rule : Clearance Constraint (Gap=0.178mm) (NOT InNet('PROTECT_EMI') and NOT OnLayer('Keep-Out Layer')),(not OnLayer('Keep-out Layer'))
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -15,28 +15,28 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=10mil) (Max=78.74mil) (Preferred=15mil) (All)
+Processing Rule : Width Constraint (Min=0.254mm) (Max=2mm) (Preferred=0.381mm) (All)
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=1mil) (Max=157.48mil) (All)
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=4mm) (All)
 Rule Violations :0
 
-Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=5.512mil) (All),(All)
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.14mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Silk To Solder Mask (Clearance=3.937mil) (IsPad),(All)
+Processing Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
 Rule Violations :0
 
-Processing Rule : Silk to Silk (Clearance=8mil) (All),(All)
+Processing Rule : Silk to Silk (Clearance=0.203mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
 
 Processing Rule : Delay Constraint (Min=84.5ps) (Max=84.5ps) (InNetClass('USB_DATA'))
@@ -48,10 +48,10 @@ Rule Violations :0
 Processing Rule : Matched Lengths(Delay Tolerance=5ps) (InAnyDifferentialPair)
 Rule Violations :0
 
-Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
