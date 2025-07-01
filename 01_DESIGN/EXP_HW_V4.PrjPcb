@@ -524,14 +524,6 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for EXP_HW_V4\EXP_V122_Soldermask_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument22]
-DocumentPath=Project Outputs for EXP_HW_V4\Pick Place for EXP_V122.csv
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for EXP_HW_V4\Pick Place for EXP_V122.txt
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
