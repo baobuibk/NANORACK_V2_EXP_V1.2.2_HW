@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\Altium_WorkSpace\EXP_V4\01_DESIGN\EXP_V122.PcbDoc
-Date     : 7/1/2025
-Time     : 6:33:49 PM
+Date     : 7/2/2025
+Time     : 11:39:52 AM
 
 Processing Rule : Clearance Constraint (Gap=0.178mm) (NOT InNet('PROTECT_EMI') and NOT OnLayer('Keep-Out Layer')),(not OnLayer('Keep-out Layer'))
 Rule Violations :0
